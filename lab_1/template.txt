@@ -1,0 +1,4 @@
+Hello %user%!!!!!!!%!if Want Sleep!% Go slee\%p!!!! %!endif!%
+%!repeat count iter!% Goo\%d night! %!endrepeat!% hahahhaha
+<h1> Hello %name%!</h1>
+<h2>%!if isUser!% Welcome back %!endif!% </h2>
